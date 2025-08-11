@@ -1,4 +1,4 @@
-**`id`**: zk4-aa4-2
+**`id`**: zk3-aa1-0
 **`title`**: dopamine-is-harmful
 **`date`**: 2025-05-26
 **`tags`**: #dopamine #evolution #habits
@@ -13,3 +13,5 @@
 ###### References
 
 [[zk4-aa4-1-evolution-and-habits]]
+[[zk3-aa1-1-dopamine-adaptation-in-modern-world]]
+[[zk1-aa6-0-atomic-habits]]

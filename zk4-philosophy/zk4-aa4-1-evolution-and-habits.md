@@ -12,3 +12,5 @@ In evolution, the environment provides feedback, while in habit formation, the b
 ###### References
 
 [[zk4-aa4-2-dopamine-is-harmful]]
+[[zk3-aa1-1-dopamine-adaptation-in-modern-world]]
+[[zk3-aa1-0-dopamine-is-harmful]]
